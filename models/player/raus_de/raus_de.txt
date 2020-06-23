@@ -1,0 +1,10 @@
+--------------http://www.raus.de/crashme/---------------
+
+My first kuso player model!
+
+skin/model/compiled : tepodon
+animation : 3.0team
+
+tool : MilkShape3D
+
+time : 6.5 hours

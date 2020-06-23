@@ -1,0 +1,14 @@
+------------------------------------------------------
+kao3 a.k.a Leisure Look  (from MapleStory)
+for Sven Co-op 5.0 player model
+
+meipuru meipuru pu-rupuru
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+02-11-2018 completed
+------------------------------------------------------
