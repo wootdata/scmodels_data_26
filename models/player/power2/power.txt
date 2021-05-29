@@ -1,0 +1,11 @@
+Austin Powers skin for Half-Life
+=======================
+Austin Powers is my first attempt at a player skin for Half-Life, it's based on the Scientist model.
+ 
+I was inspired the shagadelic movie Austin Power:  International Man of Mystery.  If you haven't seen it, get out of your cave and rent it
+
+To use, extract power.mdl and power.bmp to Half-Life\valve\models\player\power
+
+General comments to:
+lazyguy2@yahoo.com
+

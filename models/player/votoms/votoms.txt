@@ -1,0 +1,29 @@
+===Votoms model for HL===
+
+Thanks for download this one !
+And have for fun !!
+
+------Info  Model------
+Vertex:545
+Polygon:763
+Texture:256*256
+ColorChange:Yes
+
+---Info Installation---
+put in
+Sierra/Half-Life/valve/models/player/votoms
+
+This model can use in tfc too.
+change name to soldider.mdl
+And put in
+Sieera/Half-Life/tfc/models/player/soldier
+(If you don't have a player and soldider directories,)
+(Please make them^o^)
+
+
+Sorry for my English,I can't understand English well....^_^;
+By karugamo
+
+Email adress:karu_gamo@hotmail.com
+HomePage adress:http://www.geocities.co.jp/AnimalPark-Tama/1666
+You can download other Japanese animation models for HL=)

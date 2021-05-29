@@ -1,0 +1,32 @@
+Dragon
+-----------------------------------------------------
+MODEL INFO:
+Author:         Wolverine
+Model Name:   	Dragon
+Total Size:  	364 kb
+Build Time:    	2 weeks
+#Vertices:      409  
+#Triangles:     905
+Programs Used:	Milkshape 3d v1.0 , Photoshop 5, HL Modelviewer
+Known bugs:     The hands may go trough some of the weapons otherwise no bugs that I know of.
+
+Description:
+I´m Back !! This time with a really cool Model (at least what I think =)
+This is the Second model that I´ve made, and I´m kind of proud of this one.
+Hope U all Like it ??? 
+
+Installation: Copy all files into Half-life/Valve/Models/player/Dragon
+
+Distribution:
+Distribute this model freely - But please include this .txt file.
+And if U are planning to use any of my "parts" please contact me before U release it.
+
+Thanks to: Valve who made have made the BEST game EVER ¤¤¤HALF-LIFE¤¤¤
+           also additional credits to the person who made the body I´ve used (GMAN)
+---------------------------------------------
+I´m very interested in working on some more models maybe with someone who also is interested
+in making models or skins.
+If U R interested Contact ME !!
+
+E-mail:	   Lobowolverine@hotmail.com
+
