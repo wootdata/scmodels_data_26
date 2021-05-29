@@ -1,1 +1,280 @@
-{"seq_groups": 1, "hash": "6bc76ff5fffdfb5af4164580e2f80926", "tri_count": "592"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "reference",
+					"polys": 592,
+					"verts": 306
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "6bc76ff5fffdfb5af4164580e2f80926",
+	"name": "valve/models/friendly.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 81,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "smallflinch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "smallflinch2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "attack"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "doublewhip"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 47,
+			"name": "vomit"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01 R Finger0",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": 0
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 2
+		}, 
+		{
+			"name": "",
+			"parent": 3
+		}, 
+		{
+			"name": "",
+			"parent": 4
+		}, 
+		{
+			"name": "",
+			"parent": 5
+		}, 
+		{
+			"name": "",
+			"parent": 6
+		}, 
+		{
+			"name": "",
+			"parent": 7
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 11
+		}, 
+		{
+			"name": "",
+			"parent": 12
+		}, 
+		{
+			"name": "",
+			"parent": 13
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 16
+		}, 
+		{
+			"name": "",
+			"parent": 17
+		}, 
+		{
+			"name": "",
+			"parent": 18
+		}, 
+		{
+			"name": "",
+			"parent": 19
+		}, 
+		{
+			"name": "",
+			"parent": 20
+		}, 
+		{
+			"name": "",
+			"parent": 21
+		}, 
+		{
+			"name": "",
+			"parent": 22
+		}, 
+		{
+			"name": "",
+			"parent": 23
+		}, 
+		{
+			"name": "",
+			"parent": 24
+		}, 
+		{
+			"name": "",
+			"parent": 21
+		}, 
+		{
+			"name": "",
+			"parent": 26
+		}, 
+		{
+			"name": "",
+			"parent": 27
+		}, 
+		{
+			"name": "",
+			"parent": 28
+		}, 
+		{
+			"name": "",
+			"parent": 29
+		}, 
+		{
+			"name": "",
+			"parent": 21
+		}, 
+		{
+			"name": "",
+			"parent": 31
+		}, 
+		{
+			"name": "",
+			"parent": 32
+		}, 
+		{
+			"name": "",
+			"parent": 33
+		}, 
+		{
+			"name": "",
+			"parent": 34
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 184,
+			"name": "rleg.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 200,
+			"name": "rightleg.bmp",
+			"width": 84
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "butt.bmp",
+			"width": 116
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "tentfront.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "tentacle.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 200,
+			"name": "face.bmp",
+			"width": 160
+		}, 
+		{
+			"flags": 0,
+			"height": 125,
+			"name": "belly.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 86,
+			"name": "torsoside.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 189,
+			"name": "spine.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 24,
+			"name": "mouth.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 15,
+			"name": "black.bmp",
+			"width": 12
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,262 @@
-{"seq_groups": 1, "hash": "718bf08139b9f92032c3dea8a8b9f5eb", "tri_count": "700"}
+{
+	"attachments": [
+		{
+			"bone": 23,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 13,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "intro_saw",
+					"polys": 562,
+					"verts": 324
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MP5_reference",
+					"polys": 138,
+					"verts": 86
+				}, 
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}
+			],
+			"name": "weapons"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 14,
+			"end": 45.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}, 
+		{
+			"bone": 13,
+			"end": 70.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -70.000000,
+			"type": 8
+		}
+	],
+	"events": [
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 7,
+			"type": 0
+		}, 
+		{
+			"event": 1001,
+			"frame": 1,
+			"options": "",
+			"sequence": 7,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "718bf08139b9f92032c3dea8a8b9f5eb",
+	"name": "c:\\sierra\\half-life\\gearbox\\models\\intro_saw.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 10.000000,
+			"frames": 91,
+			"name": "sitting1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 91,
+			"name": "sitting2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 16,
+			"name": "sitting3"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 91,
+			"name": "sitting4"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 91,
+			"name": "sitting5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 211,
+			"name": "stiff"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "sit_React"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 181,
+			"name": "cower"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone06",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 23
+		}, 
+		{
+			"name": "MP5_model",
+			"parent": 24
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "fatigues.BMP",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 62,
+			"name": "boots.BMP",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "saw_gunner_torso.BMP",
+			"width": 112
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "intro_saw.bmp",
+			"width": 136
+		}, 
+		{
+			"flags": 0,
+			"height": 57,
+			"name": "grunt_MP5.BMP",
+			"width": 100
+		}
+	],
+	"version": 10
+}
