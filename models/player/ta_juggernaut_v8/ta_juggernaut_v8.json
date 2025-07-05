@@ -321,7 +321,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "21063d0b941a5fbb5686712c01b908ab",
+	"md5": "a1ddd04c5a89f2c0b0f27baa727e6038",
 	"name": "ta_Juggernaut2.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1281,7 +1281,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2829512,
+	"size": 7825448,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1425,63 +1425,63 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
+			"height": 512,
 			"name": "Grunt_Vest.bmp",
-			"width": 512
+			"width": 1024
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
+			"height": 512,
 			"name": "remap1_000_126_255.bmp",
-			"width": 512
+			"width": 1024
 		}, 
 		{
 			"flags": 0,
-			"height": 254,
+			"height": 508,
 			"name": "Grunt_Helmet.bmp",
+			"width": 1024
+		}, 
+		{
+			"flags": 0,
+			"height": 1024,
+			"name": "Grunt_gasmask.bmp",
+			"width": 1024
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Grunt_arm_wht.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "Grunt_gasmask.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "Grunt_arm_wht.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
+			"height": 512,
 			"name": "Grunt_hand_wht.bmp",
-			"width": 128
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 280,
+			"height": 560,
 			"name": "Grunt_face_gasmask_wht.bmp",
-			"width": 432
+			"width": 864
 		}, 
 		{
 			"flags": 32,
-			"height": 64,
-			"name": "Grunt_gasmask_glass.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
 			"height": 256,
-			"name": "Grunt_boots.bmp",
+			"name": "Grunt_gasmask_glass.bmp",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 248,
+			"height": 1024,
+			"name": "Grunt_boots.bmp",
+			"width": 1024
+		}, 
+		{
+			"flags": 0,
+			"height": 992,
 			"name": "Grunt_armband.bmp",
-			"width": 252
+			"width": 1008
 		}, 
 		{
 			"flags": 0,
