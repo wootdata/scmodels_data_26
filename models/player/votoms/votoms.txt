@@ -1,29 +1,39 @@
-===Votoms model for HL===
+March,22,2000
+================================================================
+Model Name              : votoms
+Section			: Half-Life
+installation directory  : sierra/Half-Life/valve/models/player/votoms
+Author                  : karu_gamo
+Email Address           : karu_gamo@hotmail.com
+Auther's web		: http://www.geocities.co.jp/AnimalPark-Tama/1666/
 
-Thanks for download this one !
-And have for fun !!
+Model description       : This model is a mecha of famous TV animation "Votoms" in Japan.
+			  I hope you like this.Have for fun !^o^
+================================================================
+* Play Information *
 
-------Info  Model------
-Vertex:545
-Polygon:763
-Texture:256*256
-ColorChange:Yes
+New Sounds              : No
+CTF Skins               : No
+VWEP Support            : No
+Color change		: Yes
+Texture			: 256*256
+Skeleton		: Standard
+Custom anime		: No
+Custom hitbox		: No
+Custom logos		: No
 
----Info Installation---
-put in
-Sierra/Half-Life/valve/models/player/votoms
-
-This model can use in tfc too.
-change name to soldider.mdl
-And put in
-Sieera/Half-Life/tfc/models/player/soldier
-(If you don't have a player and soldider directories,)
-(Please make them^o^)
+* Construction *
+Poly Count              : 763 polys
+Vert Count              : 545 Verts
+Skin Count              : 1 Skins
+Base                    : Nothing
+Editor used             : Lightwave5.6,MilkShape3D
 
 
-Sorry for my English,I can't understand English well....^_^;
-By karugamo
+* How to use this model *
 
-Email adress:karu_gamo@hotmail.com
-HomePage adress:http://www.geocities.co.jp/AnimalPark-Tama/1666
-You can download other Japanese animation models for HL=)
+Please put votoms.mdl and votoms.bmp in your sierra/Half-Life/valve/models/votoms directry.
+
+* Copyright / Permissions *
+c 1999 Sierra On-Line and Valve 
+
