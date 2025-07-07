@@ -253,6 +253,7 @@
 			"name": "Body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -523,7 +524,11 @@
 	],
 	"id": 1414743113,
 	"md5": "331c26323eeeb61fa66aa52d2d96f047",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mage_Lilia.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

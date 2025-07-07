@@ -83,6 +83,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e247e9e578a7c8349b657c5a5842c063",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Miku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

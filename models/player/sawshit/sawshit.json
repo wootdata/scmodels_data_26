@@ -38,6 +38,7 @@
 			"name": "weapons"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -75,7 +76,11 @@
 	],
 	"id": 1414743113,
 	"md5": "718bf08139b9f92032c3dea8a8b9f5eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\sierra\\half-life\\gearbox\\models\\intro_saw.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

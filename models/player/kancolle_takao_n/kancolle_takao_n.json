@@ -108,6 +108,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -426,7 +427,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e428ae12f611bdaf551a55a01822c14c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KC_Takao.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

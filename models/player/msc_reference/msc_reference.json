@@ -73,6 +73,7 @@
 			"name": "arms"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "db13781beb54cecf727ba023c19d0cca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "msc_reference.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

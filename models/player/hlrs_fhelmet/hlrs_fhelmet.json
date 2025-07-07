@@ -22,6 +22,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1639626968,
 	"events": [
@@ -259,7 +260,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f997e38187c0f2d28ef1df9e9f090775",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hlrs_fhelmet.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

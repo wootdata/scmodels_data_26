@@ -163,6 +163,7 @@
 			"name": "glow_op"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -433,7 +434,11 @@
 	],
 	"id": 1414743113,
 	"md5": "33a0e5827865932876845478d1b04cd1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compiled/afterlife_dspace.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

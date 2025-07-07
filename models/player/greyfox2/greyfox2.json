@@ -73,6 +73,7 @@
 			"name": "dot"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afa5a925daf8a21c9707a10a0cd4af9a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GreyFox2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

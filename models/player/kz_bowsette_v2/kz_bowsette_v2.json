@@ -253,6 +253,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -523,7 +524,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0389137756e4f6978938ab92517cf9b7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KZ_Bowsette.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

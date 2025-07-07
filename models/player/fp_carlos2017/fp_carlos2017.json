@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8bbdadb95d615e723f563fb0ee9dd389",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "FP_Carlos.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

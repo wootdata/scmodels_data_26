@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -633,7 +634,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5d4b0f9c06ef75b4d05c6d3a396c77f2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "uganda.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

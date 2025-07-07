@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1426157740,
 	"events": [],
 	"id": 1414743113,
 	"md5": "6bc76ff5fffdfb5af4164580e2f80926",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/friendly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

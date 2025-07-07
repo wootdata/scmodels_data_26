@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -640,7 +641,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6d035a6fd0c1bf878be68e43e912ac77",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Sana_LowPoly/Holo_Sana_LowPoly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

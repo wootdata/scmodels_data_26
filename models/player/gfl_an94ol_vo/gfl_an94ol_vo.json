@@ -283,6 +283,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -871,7 +872,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7946d62af8b90b6f38660a68a2913996",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gfl_an94ol.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

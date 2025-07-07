@@ -43,6 +43,7 @@
 			"name": "hats"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "945407c68f4e6938c1871692c4156bec",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "red1_cap.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 19,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "979b8d374126795be70a59b2ff368979",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_robo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

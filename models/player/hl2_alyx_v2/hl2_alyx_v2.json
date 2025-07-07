@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "94d49869c85ef8dbd00fb1d0ca7a2f5e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hl2_alyx.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -132,6 +132,7 @@
 			"name": "astolfo13"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -402,7 +403,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6435e3256707a1dca4d8519b33173ebe",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "astolfo_mazz.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

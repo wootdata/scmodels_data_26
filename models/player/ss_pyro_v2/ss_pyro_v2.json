@@ -63,6 +63,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4745b4d5b3f414b949f4910640042a01",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ss_pyro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

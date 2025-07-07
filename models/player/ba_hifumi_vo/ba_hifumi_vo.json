@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -692,7 +693,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b1897351315d6375d1632e5aea23d1b9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ba_hifumi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

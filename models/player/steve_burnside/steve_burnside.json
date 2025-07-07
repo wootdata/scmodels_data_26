@@ -88,6 +88,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -456,7 +457,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6958ce5406cb4df7f64c42351bfbc923",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\APOCALIPSIS\\Escritorio\\Steve_Burnside\\",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

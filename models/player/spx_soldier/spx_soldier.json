@@ -43,6 +43,7 @@
 			"name": "grunt"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3ae46f44c3c5b4fa43ed275c172e220e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compile.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

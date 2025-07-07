@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a341cdf1d93183ad382e1a5f03b9f601",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "preston_ref.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

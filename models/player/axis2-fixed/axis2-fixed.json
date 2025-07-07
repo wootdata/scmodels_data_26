@@ -63,6 +63,7 @@
 			"name": "gears"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -550,7 +551,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7fc63a160b07c01d464a0d6f274797cb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Axis2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

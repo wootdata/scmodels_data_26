@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c9a531c7dc1e7ad3aae11ea4323788a5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NR_LittleAnimeMiku.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

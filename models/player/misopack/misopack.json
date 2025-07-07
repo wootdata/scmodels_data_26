@@ -43,6 +43,7 @@
 			"name": "tundra_cool"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7aa50dc5223226d2fa05dddef226294c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "misopack.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

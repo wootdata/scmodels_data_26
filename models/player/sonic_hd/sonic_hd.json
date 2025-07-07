@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -381,7 +382,11 @@
 	],
 	"id": 1414743113,
 	"md5": "158ea43f3a9e53a3c7c7025dba5aa920",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sonic_HD.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -381,7 +382,11 @@
 	],
 	"id": 1414743113,
 	"md5": "613196220795217c05a1680b5437c6bf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Pepe_theFrog.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -63,6 +63,7 @@
 			"name": "Dr_K-4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b94a4c0e233e638bf261e6c1d96a7832",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dr_k.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

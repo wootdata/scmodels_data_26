@@ -123,6 +123,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2c1de0eeb968e7993b1557608e94eb2f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_EvilMiku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

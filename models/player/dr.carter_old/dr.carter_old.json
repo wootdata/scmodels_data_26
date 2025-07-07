@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "abdb1067edf8f964618ff38ce1dff507",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Dr_Carter_old.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

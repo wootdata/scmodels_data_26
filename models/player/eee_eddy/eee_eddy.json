@@ -33,6 +33,7 @@
 			"name": "Eddy"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "90e62075d2f3d90638c2e7b42713cc1c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "EEE_Eddy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

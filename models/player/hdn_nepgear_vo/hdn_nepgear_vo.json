@@ -112,6 +112,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -719,7 +720,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8227368154f3c5d52af931f95528ddcd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_nepgear.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

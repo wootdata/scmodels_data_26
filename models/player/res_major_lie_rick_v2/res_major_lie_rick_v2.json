@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afc71b62f1b15740c798ec3e77d54b0f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "re_ubcs_nicholai.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -748,7 +749,11 @@
 	],
 	"id": 1414743113,
 	"md5": "626f22838d3c8200c02ef3628f77544d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AL_Akashi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

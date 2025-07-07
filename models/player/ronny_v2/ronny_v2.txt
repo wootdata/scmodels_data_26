@@ -10,3 +10,5 @@ Based on Valve's Scientist model, but way tweaked in MilkShape. I just thought i
 sgroups: 1
 
 christopher@creth.com
+
+Modified to support team coloring by Xawari.

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5492fc6d4b122043fc172d301b887d79",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sv_fredrykphox.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

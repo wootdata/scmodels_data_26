@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f736a6f966577794a24c5608686c42ba",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "thirst.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
