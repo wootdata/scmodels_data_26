@@ -464,6 +464,7 @@
 	"md5": "0ae557fd5eb674cb0767a030591cae85",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "Models/Sonic.mdl",
 	"preview": true,
 	"readme": false,
