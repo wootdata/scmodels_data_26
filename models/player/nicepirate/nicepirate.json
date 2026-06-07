@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185456912,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "1ebb15102997727a51d8fa8681893e72",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\SIERRA\\Half-Life\\VALVE\\MODELS\\PLAYER\\Blackbeard\\Blackbeard.mdL>",
 	"preview": true,
 	"readme": false,

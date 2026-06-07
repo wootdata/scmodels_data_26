@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 930924590,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -250,6 +250,7 @@
 	"md5": "a60e5f963acde568ea839ca66be45c56",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/sniper/sniper.mdl",
 	"preview": true,
 	"readme": true,
